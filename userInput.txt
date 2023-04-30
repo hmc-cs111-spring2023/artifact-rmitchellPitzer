@@ -1,2 +1,0 @@
-EVENT "CS111" DESC "Domain Specific Languages. Occurs ever Monday and Wednesday from 1:15 pm to 2:30 pm." FROM 1:15pm TO 2:30pm ON Monday Wednesday Friday COLOR orange
-EVENT "CS131" DESC "Programming languages. Either starts at 9:35 am or 11 am in McGregor." FROM 9:35am TO 11am ON Monday Wednesday Friday COLOR green
